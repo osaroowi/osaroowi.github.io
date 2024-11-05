@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osaroowi.github.io/Wta/sitemap_index.txt
+Sitemap: https://osaroowi.github.io/dAW/sitemap_index.txt
+Sitemap: https://osaroowi.github.io/pZl/sitemap_index.txt
+Sitemap: https://osaroowi.github.io/qlN/sitemap_index.txt
